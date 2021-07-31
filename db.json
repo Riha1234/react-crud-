@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "userId": "A21356023",
+      "username": "Neha Kumari",
+      "email": "neha12345@gmail.com",
+      "createdat": "2021-07-31: 06:12 PM",
+      "updatedat": "2021-07-31: 06:12 PM",
+      "usertype": "NEW_USER",
+      "id": 1
+    },
+    {
+      "userId": "A24345456",
+      "username": "Riha Kumari",
+      "email": "rihakumari94@gmail.com",
+      "createdat": "2021-07-31: 06:13 PM",
+      "updatedat": "2021-07-31: 06:13 PM",
+      "usertype": "PREMIUM_USER",
+      "id": 2
+    },
+    {
+      "userId": "A122324309",
+      "username": "Rahul Kumar",
+      "email": "rahulkumar@gmail.com",
+      "createdat": "2021-07-31: 06:14 PM",
+      "updatedat": "2021-07-31: 06:14 PM",
+      "usertype": "NEW_USER",
+      "id": 3
+    },
+    {
+      "userId": "AB123243434",
+      "username": "Sonu Choudhary",
+      "email": "sonu@gmail.com",
+      "createdat": "2021-07-31: 06:15 PM",
+      "updatedat": "2021-07-31: 06:15 PM",
+      "usertype": "PREMIUM_USER",
+      "id": 4
+    },
+    {
+      "userId": "AC123234344",
+      "username": "Golu Singh",
+      "email": "golu@gmail.com",
+      "createdat": "2021-07-31: 06:15 PM",
+      "updatedat": "2021-07-31: 06:15 PM",
+      "usertype": "PREMIUM_USER",
+      "id": 5
+    },
+    {
+      "userId": "AC122340998",
+      "username": "RihaKumari1",
+      "email": "rihakumari@gmail.com",
+      "createdat": "2021-07-31: 06:16 PM",
+      "updatedat": "2021-07-31: 06:16 PM",
+      "usertype": "NEW_USER",
+      "id": 6
+    },
+    {
+      "userId": "ABC1323456",
+      "username": "NehaKumari1",
+      "email": "neha@gmail.com",
+      "createdat": "2021-07-31: 06:17 PM",
+      "updatedat": "2021-07-31: 06:17 PM",
+      "usertype": "NEW_USER",
+      "id": 7
+    },
+    {
+      "userId": "AB13232434",
+      "username": "RinaKumari1",
+      "email": "rinakumari91@gmail.com",
+      "createdat": "2021-07-31: 06:17 PM",
+      "updatedat": "2021-07-31: 06:17 PM",
+      "usertype": "NEW_USER",
+      "id": 8
+    },
+    {
+      "userId": "AA193828748",
+      "username": "RenuSingh132",
+      "email": "renusingh@gmail.com",
+      "createdat": "2021-07-31: 06:18 PM",
+      "updatedat": "2021-07-31: 06:18 PM",
+      "usertype": "NEW_USER",
+      "id": 9
+    },
+    {
+      "userId": "ACC1323343",
+      "username": "SachiSingh",
+      "email": "sachisingh@gmail.com",
+      "createdat": "2021-07-31: 06:19 PM",
+      "updatedat": "2021-07-31: 06:19 PM",
+      "usertype": "NEW_USER",
+      "id": 10
+    }
+  ]
+}
